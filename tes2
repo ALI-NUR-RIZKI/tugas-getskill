@@ -1,3 +1,0 @@
-Keempat fungsi tersebut digunakan untuk menyisipkan file PHP ke dalam file PHP lainnya, namun memiliki perbedaan mendasar pada penanganan error (saat file tidak ditemukan) dan pembatasan pemanggilan ulang.
-dari yang saya baca jika include_once programnya akan tetap jalan
-kalo requer_once itu bakalan ke stop
